@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.submit-button {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.hook-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-field {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  width: 300px;
+}
+
+.input-file {
+  margin-bottom: 5px;
+  width: 300px;
+}
+
+.input-field::placeholder {
+  padding-left: 6px;
+}
+
+.text-notification {
+  font-size: 20px;
+  font-weight: bold;
+  color: yellow;
+}
+
+.linkedin-icon {
+  background: rgb(0, 119, 181)
+}
+
+.linkedin-svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  color: white;
+}
+
+.quora-svg {
+  width: 1.15rem;
+  height: 1.15rem;
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/translate/static/css/main.d3300b1f.css",
+    "main.js": "/translate/static/js/main.22f74f83.js",
+    "static/js/592.31582075.chunk.js": "/translate/static/js/592.31582075.chunk.js",
+    "static/media/quora-icon.svg": "/translate/static/media/quora-icon.58f7f11cbad679b9769ca3ab9b32d84f.svg",
+    "index.html": "/translate/index.html",
+    "main.d3300b1f.css.map": "/translate/static/css/main.d3300b1f.css.map",
+    "main.22f74f83.js.map": "/translate/static/js/main.22f74f83.js.map",
+    "592.31582075.chunk.js.map": "/translate/static/js/592.31582075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3300b1f.css",
+    "static/js/main.22f74f83.js"
+  ]
+}
